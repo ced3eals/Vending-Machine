@@ -1,0 +1,7 @@
+Please, make your choice using the items id's [0 to 2]
+
+0 - Coffee : 2.5 €
+1 - Tea : 3 €
+2 - Candy : 5€
+
+Please first enter your money
